@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-vision/#history
 
+## [3.11.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-vision-v3.10.2...google-cloud-vision-v3.11.0) (2025-10-07)
+
+
+### Bug Fixes
+
+* upgrade gRPC service registration func An update to Go gRPC Protobuf generation will change service registration function signatures to use an interface instead of a concrete type in generated .pb.go service files. This change should affect very few client library users. See release notes advisories in https://github.com/googleapis/google-cloud-go/pull/11025. ([ccfa144e38277f8808149d284e3bb9cf98395f46](https://github.com/googleapis/google-cloud-python/commit/ccfa144e38277f8808149d284e3bb9cf98395f46))
+
 ## [3.10.2](https://github.com/googleapis/google-cloud-python/compare/google-cloud-vision-v3.10.1...google-cloud-vision-v3.10.2) (2025-06-11)
 
 

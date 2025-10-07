@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-dataflow-client/#history
 
+## [0.10.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-dataflow-client-v0.9.0...google-cloud-dataflow-client-v0.10.0) (2025-10-07)
+
+
+### Bug Fixes
+
+* upgrade gRPC service registration func An update to Go gRPC Protobuf generation will change service registration function signatures to use an interface instead of a concrete type in generated .pb.go service files. This change should affect very few client library users. See release notes advisories in https://github.com/googleapis/google-cloud-go/pull/11025. ([ccfa144e38277f8808149d284e3bb9cf98395f46](https://github.com/googleapis/google-cloud-python/commit/ccfa144e38277f8808149d284e3bb9cf98395f46))
+
 ## [0.9.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-dataflow-client-v0.8.17...google-cloud-dataflow-client-v0.9.0) (2025-05-08)
 
 
