@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-dataflow-client/#history
 
+## [0.10.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-dataflow-client-v0.9.0...google-cloud-dataflow-client-v0.10.0) (2025-10-07)
+
+
+### Features
+
+* generate libraries ([ebd95bba3d1a0c406d86f9fd26cecd9f84d59d70](https://github.com/googleapis/google-cloud-python/commit/ebd95bba3d1a0c406d86f9fd26cecd9f84d59d70))
+
 ## [0.9.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-dataflow-client-v0.8.17...google-cloud-dataflow-client-v0.9.0) (2025-05-08)
 
 

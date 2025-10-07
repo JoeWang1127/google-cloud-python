@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-vision/#history
 
+## [3.11.0](https://github.com/googleapis/google-cloud-python/compare/google-cloud-vision-v3.10.2...google-cloud-vision-v3.11.0) (2025-10-07)
+
+
+### Features
+
+* generate libraries ([ebd95bba3d1a0c406d86f9fd26cecd9f84d59d70](https://github.com/googleapis/google-cloud-python/commit/ebd95bba3d1a0c406d86f9fd26cecd9f84d59d70))
+
 ## [3.10.2](https://github.com/googleapis/google-cloud-python/compare/google-cloud-vision-v3.10.1...google-cloud-vision-v3.10.2) (2025-06-11)
 
 
